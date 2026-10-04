@@ -1,3 +1,13 @@
+## 效果展示
+
+![效果图1](Screenshot_2026-10-04-10-50-30-248_com.demo.imguifloat.jpg)
+![效果图2](Screenshot_2026-10-04-10-50-24-968_com.demo.imguifloat.jpg)
+![效果图3](Screenshot_2026-10-04-10-50-17-953_com.demo.imguifloat.jpg)
+![效果图4](Screenshot_2026-10-04-10-50-20-875_com.demo.imguifloat.jpg)
+![效果图5](Screenshot_2026-10-04-10-50-11-374_com.demo.imguifloat.jpg)
+![效果图6](Screenshot_2026-10-04-10-50-03-631_com.demo.imguifloat.jpg)
+
+
 # LiquidGlass-Cpp
 
 本项目（LiquidGlass-Cpp）是基于 Kyant 项目的 C++ 独立移植与二次开发。
